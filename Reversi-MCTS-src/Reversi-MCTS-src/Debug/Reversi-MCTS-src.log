@@ -1,0 +1,4 @@
+﻿  ReversiMCTSsrc.cpp
+c:\users\dailinhu\onedrive\08 实验室计划\reversi-ai\reversi-mcts-src\reversi-mcts-src\reversimctssrc.cpp(25): warning C4715: 'position::operator<': not all control paths return a value
+  Reversi-MCTS-src.vcxproj -> C:\Users\DailinHu\OneDrive\08 实验室计划\Reversi-AI\Reversi-MCTS-src\Debug\Reversi-MCTS-src.exe
+  Reversi-MCTS-src.vcxproj -> C:\Users\DailinHu\OneDrive\08 实验室计划\Reversi-AI\Reversi-MCTS-src\Debug\Reversi-MCTS-src.pdb (Partial PDB)
