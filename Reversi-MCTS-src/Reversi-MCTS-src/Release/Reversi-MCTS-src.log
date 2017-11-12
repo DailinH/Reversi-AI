@@ -1,9 +1,0 @@
-﻿  ReversiMCTSsrc.cpp
-c:\users\dailinhu\onedrive\08 实验室计划\reversi-ai\reversi-mcts-src\reversi-mcts-src\MonteCarlo.h(216): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  Generating code
-  2 of 136 functions ( 1.5%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  Reversi-MCTS-src.vcxproj -> C:\Users\DailinHu\OneDrive\08 实验室计划\Reversi-AI\Reversi-MCTS-src\Release\Reversi-MCTS-src.exe
-  Reversi-MCTS-src.vcxproj -> C:\Users\DailinHu\OneDrive\08 实验室计划\Reversi-AI\Reversi-MCTS-src\Release\Reversi-MCTS-src.pdb (Full PDB)

@@ -1,5 +1,9 @@
 #vs
-.vs
+.vs/
 
-#debug
-Debug
+
+#debug,Release,
+Debug/
+Release/
+obj/
+
